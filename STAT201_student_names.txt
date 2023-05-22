@@ -1,7 +1,10 @@
 1. Krish
+<<<<<<< HEAD
 2. Ben
 3. Alex
 4. Daniel
 5. Sutter
 6. Francis
 
+=======
+>>>>>>> 9a6bc52f09e3a242bd0d9ceec2a5510400534578
