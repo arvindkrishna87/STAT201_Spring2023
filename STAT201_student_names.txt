@@ -12,3 +12,4 @@ Names of people in the course STAT201
 9. Ella Marks
 10. Jeremy Ferguson
 11. Stephanie Shi
+12. James O'Connor
