@@ -8,4 +8,5 @@ Names of people in the course STAT201
 5. Sutter
 6. Francis
 7. Steven
+8. Shaylini
 
