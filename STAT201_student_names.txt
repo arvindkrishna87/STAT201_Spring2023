@@ -1,8 +1,12 @@
 1. Krish
+<<<<<<< HEAD
 2. Ben
-3. Alex Barbatsi
+3. Alex Barbatsis
 4. Daniel
 5. Sutter
 6. Seeger Gray
 7. Shaylini
 8. Melanie Tapia
+=======
+2. Ella Marks
+>>>>>>> 8ac8624a614c63890c67695f5ff0c70f3b273a47
