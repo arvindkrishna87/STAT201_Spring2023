@@ -18,3 +18,4 @@ Names of people in the course STAT201
 15. Noah Jones
 16. Emilio Alvarez
 17. Christine Chiu
+18. Nam Vuong
