@@ -1,4 +1,9 @@
 Names of people in the course STAT201
 
-1. Krish
 
+1. Krish
+2. Ben
+3. Alex
+4. Daniel
+5. Sutter
+6. Francis
