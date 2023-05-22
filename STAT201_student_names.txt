@@ -15,5 +15,6 @@ Names of people in the course STAT201
 12. James O'Connor
 13. Noah Short
 14. Melanie Tapia
+15. Noah Jones
 
 
