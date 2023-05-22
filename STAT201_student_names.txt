@@ -13,4 +13,5 @@ Names of people in the course STAT201
 10. Jeremy Ferguson
 11. Stephanie Shi
 12. James O'Connor
+13. Noah Short
 
