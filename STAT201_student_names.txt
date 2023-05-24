@@ -19,3 +19,4 @@ Names of people in the course STAT201
 16. Emilio Alvarez
 17. Christine Chiu
 18. Nam Vuong
+19. Seeger Gray
