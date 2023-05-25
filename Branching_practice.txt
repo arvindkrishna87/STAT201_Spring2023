@@ -1,7 +1,5 @@
 Update this file in your own branch. Write your full name.
 
-
-
 1. Arvind Krishna
 
 2. Shaylini Seabrooks
@@ -9,3 +7,6 @@ Update this file in your own branch. Write your full name.
 3.Stephanie Shi 
 
 4. James O'Connor
+
+5. Jeremy Ferguson
+
