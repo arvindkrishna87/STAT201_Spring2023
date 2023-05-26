@@ -12,3 +12,4 @@ Update this file in your own branch. Write your full name.
 
 5. Kanan Nozaki
 
+6. Steven Yao
