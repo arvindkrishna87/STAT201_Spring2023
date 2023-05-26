@@ -1,5 +1,7 @@
 Update this file in your own branch. Write your full name.
 
+1. Melanie Tapia
+
 1. Arvind Krishna
 
 2. Shaylini Seabrooks
@@ -9,7 +11,7 @@ Update this file in your own branch. Write your full name.
 4. James O'Connor
 
 5. Daniel Gold
-=======
+
 5. Jacob Batten
 
 6. Kanan Nozaki
@@ -23,4 +25,7 @@ Update this file in your own branch. Write your full name.
 10. Alex Barbatsis
 
 11. Daniel Gold
+
+12. Melanie Tapia
+
 
