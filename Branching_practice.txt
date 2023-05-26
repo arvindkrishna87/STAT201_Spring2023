@@ -8,6 +8,8 @@ Update this file in your own branch. Write your full name.
 
 4. James O'Connor
 
+5. Daniel Gold
+=======
 5. Jacob Batten
 
 6. Kanan Nozaki
@@ -19,4 +21,6 @@ Update this file in your own branch. Write your full name.
 9. Sutter Augur
 
 10. Alex Barbatsis
+
+11. Daniel Gold
 
