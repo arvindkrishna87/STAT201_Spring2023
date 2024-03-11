@@ -1,10 +1,13 @@
 Names of people in the course STAT201
 
+The header must be changed
 
 1. Krish
 2. Ben
 3. Alex Barbatsis
 4. Daniel
+======================
+
 5. Sutter
 6. Francis
 7. Steven
@@ -23,6 +26,8 @@ Inserting name here
 15. Noah Jones
 16. Emilio Alvarez
 17. Christine Chiu
+
+==============================
 18. Nam Vuong
 19. Seeger Gray
 20. My name
